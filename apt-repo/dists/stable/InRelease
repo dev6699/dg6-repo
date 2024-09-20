@@ -9,17 +9,17 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: DG6 software repository
-Date: Fri, 20 Sep 2024 03:50:24 +0000
+Date: Fri, 20 Sep 2024 04:03:32 +0000
 MD5Sum:
- fbba879123506ea73a988d27ca21f4b1 434 main/binary-amd64/Packages.gz
- 794251e73b66fe9e8d443108da31212b 834 main/binary-amd64/Packages
+ a6c563eeab9cd2019781fd01919eab22 533 main/binary-amd64/Packages.gz
+ 14527ab3f597dcfc93f30035f7b108d3 1251 main/binary-amd64/Packages
 SHA256:
- 6e1de1eabec76c0b5fc2559c8679200579224fb157bef5b5e20b0783b041a428 434 main/binary-amd64/Packages.gz
- 2101509ecb105d7e0a9eec1b2b697eefa29028ceeb1cc536e2a87714ccf7181a 834 main/binary-amd64/Packages
+ 292d8b3b6713627dd3ca13b3434ad851b2a041f792298604d97d8c187c208525 533 main/binary-amd64/Packages.gz
+ da534852c079698d19d1f3b0ca76957f76c5f852d1833ec4d1bdc186c5d1d398 1251 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iI0EARYIADUWIQSMenHaj7omOLiTOXIMu0PZmJNAbAUCZuzxABcca3dlaWphY2su
-ZGV2QGdtYWlsLmNvbQAKCRAMu0PZmJNAbNXJAQDQfbmok+fZvX5VbIfhV4FO9R8E
-8wdjrSA16Pc5hU7SgQD9Fgz5F6HN2tjruiZtsZRP33nFmDrvZvwihg58wQYinwM=
-=FUTx
+iI0EARYIADUWIQSMenHaj7omOLiTOXIMu0PZmJNAbAUCZuz0FBcca3dlaWphY2su
+ZGV2QGdtYWlsLmNvbQAKCRAMu0PZmJNAbKS1AQCDX9SGE/PTQkI6dksie51wDFbG
+ws06xXvpcjwaZQUiGwEA41TbaaGsWkEgubgktdwPbHtafqHKC4TdIeDRBQr4rgg=
+=MnSw
 -----END PGP SIGNATURE-----

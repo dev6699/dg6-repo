@@ -24,3 +24,16 @@ SHA256: 7bf2d9eb06177b63026581e39b83e288d36ed5edeb7e61e3c220d754a666b2b7
 Homepage: https://github.com/dev6699
 Description: A program that prints hello
 
+Package: hello-world
+Version: 0.0.3
+Architecture: amd64
+Maintainer: dev6699 <kweijack.dev@gmail.com>
+Depends: libc6
+Filename: pool/main/hello-world_0.0.3-1_amd64.deb
+Size: 2634
+MD5sum: a9c4e8421ff7ad2ee0fb3cf5ddb47a00
+SHA1: 00ea8940386d77a3dd13354149df130cb835a943
+SHA256: 85b0400875dceedbba1090955ad0e8734534c74a4afd432bd0d1d1c2ff9d060b
+Homepage: https://github.com/dev6699
+Description: A program that prints hello
+
