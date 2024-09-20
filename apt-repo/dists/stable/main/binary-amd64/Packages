@@ -1,0 +1,26 @@
+Package: hello-world
+Version: 0.0.1
+Architecture: amd64
+Maintainer: dev6699 <kweijack.dev@gmail.com>
+Depends: libc6
+Filename: pool/main/hello-world_0.0.1-1_amd64.deb
+Size: 2650
+MD5sum: 68b0eeb2292f092900ccc854ab142f61
+SHA1: 077b3bd7bb67ac15fd81b146ca68ea653e2b974a
+SHA256: e98caf68c97210abbc0abd5b3876c9b8ec2883f8c9538aedde6c8dee79b8b59e
+Homepage: https://github.com/dev6699
+Description: A program that prints hello
+
+Package: hello-world
+Version: 0.0.2
+Architecture: amd64
+Maintainer: dev6699 <kweijack.dev@gmail.com>
+Depends: libc6
+Filename: pool/main/hello-world_0.0.2-1_amd64.deb
+Size: 2622
+MD5sum: 4dfd976ec64f54191c1d8b973c722368
+SHA1: c5ec265ef59e0c1a66e2aa9289f436012b994391
+SHA256: 7bf2d9eb06177b63026581e39b83e288d36ed5edeb7e61e3c220d754a666b2b7
+Homepage: https://github.com/dev6699
+Description: A program that prints hello
+
